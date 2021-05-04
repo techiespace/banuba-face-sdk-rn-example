@@ -1,0 +1,10 @@
+//
+//  BanubaClientToken.swift
+//  banubafacesdkrnexample
+//
+//  Created by Shreyas Waghmare on 04/05/21.
+//
+
+import UIKit
+
+internal let banubaClientToken = "P8pVMOwQJgJZTFvjE+i9vjRKfEC8pkAjGbiOTzWJ6VeYo17A5kYnPG+CXvyHBO14ne8RJ1yjYadMWTz3WTj+XLcijcyPMLbERJhmZ62KvzMZ1KIgOiXmwWjkxV+11OSyB0qhfMwF+sgK0l/eZ2RPBg7giVAXGrMYjsT/8siO91AtLCNiUHnjABrJKAaFR+s+Rfd/b6p6rMfWP5msgWbBM1IrPQi6Rfn4TiCVujGavWrmFu483rvoMsVV8dJZ7STO/lZv5rN5s4SjsNtW3e7Jn51X1CdytAMNsdnMmf1zozQiRlPW2JJYVJgNv3yF1qojCxPORZTw73sT06vOAnDMIt9w3MqH61NDfG8Kq2H0nj4sXEgX2Uu5nU1FuKM6AUMlBo1R7je6gH/2qvuEfBQGEaEu+ra3GY7nRyFxs6ZNdskYnFhV1jCB1bbWelsiX5+4fweA6oxdHdnkOYVmxxVlhIT7vFV36sW20idKO7B+qRDhm1xrUXXRbDg5mv0SpwdFFj90EZBq61WpD6z0xDGra+XFQzcgI10FddZRMT+yH1L9GsXViQbolxLprw+161ZeIqp8pHXWuknRaszXPShD2nt4I8dNf96lUw0LEuIkm6PdR2V+iZRGQO1jyQ7hbg0SKjXH87QNRVGChOgbwH0y5K68mKlb6Sx4ZQ=="
