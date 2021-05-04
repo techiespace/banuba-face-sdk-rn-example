@@ -7,4 +7,4 @@ Steps to execute:
 5. Open workspace in XCode
 6. Run the proejct in xcode
 
-Steps followed to create this project and issues faced along with fixes: https://docs.google.com/document/d/1UA6gJJLIK7sCsE6LnQ_ZZ9_c099nnpOUhIkeVW-t09Y/edit
+Steps followed to create this project and issues faced along with fixes: https://docs.google.com/document/d/1UA6gJJLIK7sCsE6LnQ_ZZ9_c099nnpOUhIkeVW-t09Y/edit?usp=sharing
